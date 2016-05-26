@@ -1,0 +1,7 @@
+{
+	"Name": "Reminders",
+	"Maintainer": "Evan Tann <evan@itsabot.org>",
+	"AbotVersion": 0.2,
+	"Icon": "https://cdn.rawgit.com/itsabot/plugin_reminders/master/icon.svg",
+	"Description": "Easily store and keep track of reminders."
+}
