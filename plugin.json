@@ -1,7 +1,7 @@
 {
 	"Name": "Reminders",
 	"Maintainer": "Evan Tann <evan@itsabot.org>",
-	"Icon": "https://cdn.rawgit.com/itsabot/plugin_reminders/master/icon.svg",
+	"Icon": "https://cdn.jsdelivr.net/gh/itsabot/plugin_reminders/icon.svg",
 	"Description": "Easily store and keep track of reminders.",
 	"Usage": [
 		"Remind me to pick up milk later.",
